@@ -17,16 +17,16 @@ Hi there 👋
 📫 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/trannhonviet/"_blank>
-  <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>
   <a href="https://www.instagram.com/tinhtam_1807/" alt="Instagram">
-  <img src="https://img.icons8.com/fluency/344/instagram-new.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011852082142" alt="Facebook">
-  <img src="https://img.icons8.com/color/344/facebook-new.png"/>
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
   </a>
   <a href="https://www.youtube.com/channel/UC82vKQ_TcFpTwm4eYrj_HYA" alt="Youtobe channel">
-  <img src="https://img.icons8.com/color/344/youtube-play.png"/>
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
   </a>
   </p>
   
