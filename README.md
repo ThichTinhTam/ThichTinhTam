@@ -19,13 +19,13 @@ Hi there 👋
   <a href="https://www.linkedin.com/in/trannhonviet/"_blank>
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>
-  <a href="https://www.instagram.com/tinhtam_1807/" alt="Instagram">
+  <a href="https://www.instagram.com/tinhtam_1807/"_blank alt="Instagram">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100011852082142" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100011852082142"_blank alt="Facebook">
   <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC82vKQ_TcFpTwm4eYrj_HYA" alt="Youtobe channel">
+  <a href="https://www.youtube.com/channel/UC82vKQ_TcFpTwm4eYrj_HYA"_blank alt="Youtobe channel">
   <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
   </a>
   </p>
