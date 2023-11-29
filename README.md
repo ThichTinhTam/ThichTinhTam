@@ -20,7 +20,7 @@ Hi there 👋
   <a href="https://www.linkedin.com/in/trannhonviet/"_blank>
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>
-  <a href="https://www.instagram.com/tinhtam_1807/" alt="Instagram">
+  <a href="https://www.instagram.com/nvie_1807/" alt="Instagram">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011852082142" alt="Facebook">
